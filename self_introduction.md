@@ -12,8 +12,13 @@
 | Web制作会社 | 2年 | PCサイト（主にWordpress）の開発やHTML等のコーディング、ディレクション<br>`PHP(Wordpress)` `JavaScript(jQuery, Prototype.js)` `HTML` `CSS` |
 | 中小SIer | 6年 | フロントエンドエンジニアとして5年、ディレクターとの兼務4年<br>`PHP(Wordpress)` `JavaScript(jQuery, Knockout.js)`, `HTML5`, `CSS3(Sass)` |
 | Web制作会社 | 2年 | ディレクター兼エンジニア<br>`PHP(Wordpress)` `JavaScript(Vue.js, Nuxt.js)` |
-| 中小SIer(現職) | 3年目 | ディレクター兼エンジニア<br>`JavaScript(React.js, Next.js)` `Node.js(Nest.js)` |
+| 中小SIer(現職) | 3年目 | ディレクター兼エンジニア<br>`JavaScript(React.js, Next.js)` `Node.js(Nest.js, Express)` |
 
 ## 好きなプログラミング言語
 
 - JavaScript
+- Node.js
+
+## 趣味
+
+- シャドウバース
